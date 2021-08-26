@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/rivaldyava01/Frontend-Mentor-intro-Form)
+- Live Site URL: [Github pages](https://rivaldyava01.github.io/Frontend-Mentor-intro-Form/)
 
 ## My process
 

@@ -30,10 +30,10 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot webpage](./screenshot/screenshot-webpage)
-![screenshot mobile](./screenshot/screenshot-mobile)
-![screenshot webpage error](./screenshot/screenshot-webpage-error)
-![screenshot mobile error](./screenshot/screenshot-mobile-error)
+![screenshot webpage](./screenshot/screenshot-webpage.png)
+![screenshot mobile](./screenshot/screenshot-mobile.png)
+![screenshot webpage error](./screenshot/screenshot-webpage-error.png)
+![screenshot mobile error](./screenshot/screenshot-mobile-error.png)
 
 ### Links
 

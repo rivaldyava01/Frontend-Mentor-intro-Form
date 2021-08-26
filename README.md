@@ -31,9 +31,9 @@ Users should be able to:
 ### Screenshot
 
 ![screenshot webpage](./screenshot/screenshot-webpage.png)
-![screenshot mobile](./screenshot/screenshot-mobile.png)
+![screenshot mobile](./screenshot/screenshot-mobile-screen.png)
 ![screenshot webpage error](./screenshot/screenshot-webpage-error.png)
-![screenshot mobile error](./screenshot/screenshot-mobile-error.png)
+![screenshot mobile error](./screenshot/screenshot-mobile-screen-error.png)
 
 ### Links
 
